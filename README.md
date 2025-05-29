@@ -23,7 +23,7 @@ Python · C · MySQL
 NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn · TensorFlow · PyTorch  
 
 **Web & Front-end**  
-HTML · CSS · Flask · JavaScript  
+HTML · CSS · Flask  
 
 ---
 
