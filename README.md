@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Lokesh Junjoor
-    — an aspiring AI researcher and software developer passionate about leveraging machine learning and artificial intelligence to solve real-world problems. Currently pursuing my M.Tech in Artificial Intelligence at the University of Hyderabad, I have a strong foundation in programming, data science, and deep learning.
+An aspiring AI researcher and software developer passionate about leveraging machine learning and artificial intelligence to solve real-world problems. Currently pursuing my M.Tech in Artificial Intelligence at the University of Hyderabad, I have a strong foundation in programming, data science, and deep learning.
 
 I enjoy building practical projects — from forecasting electricity demand with advanced regression models to creating mental health chatbots and developing medical imaging solutions using mobile neural networks. With a solid grip on Python, C, and web technologies, I’m always eager to learn, collaborate, and contribute to impactful open-source projects.
 
