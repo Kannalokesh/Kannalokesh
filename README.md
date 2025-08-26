@@ -21,14 +21,14 @@ Feel free to explore my projects, profiles and connect with me!
 
 ## 🛠️ Skills
 
-**Programming & Databases**  
-Python · C · MySQL  
-
-**Machine Learning & AI**  
-NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn · TensorFlow · PyTorch  
-
-**Web & Front-end**  
-HTML · CSS · Flask  
+- **Programming & Databases**
+- • Python • C • MySQL
+- **Data Science & Machine Learning**
+- • Numpy • Pandas • Scikit-learn • Matplotlib • Seaborn
+- **AI & Deep Learning**
+- • **Frameworks:** TensorFlow • Keras • PyTorch • Hugging Face Transformers
+- • **Specializations:** Computer Vision • Natural Language Processing (NLP) • Time-Series Analysis
+- • **Generative AI:** LLM Fine-Tuning (PEFT, LoRA) • Retrieval-Augmented Generation (RAG) 
 
 ---
 
@@ -37,17 +37,25 @@ HTML · CSS · Flask
 ### Electricity Demand Forecasting  
 - **Stack:** Python, Pandas, Scikit-learn, Matplotlib  
 - Built LR, SVR & XGBoost models on historical demand + weather features  
-- Engineered datetime, lag & rolling-average features for robustness  
-
-### MANASIK: Mental Health Chatbot  
-- **Stack:** Python, PyTorch, NLP libs, Flask, HTML/CSS, JavaScript  
-- Feed-forward NeuralNet for intent classification (softmax threshold > 0.75)  
-- JSON-based intents dataset powering conversational responses  
+- Engineered datetime, lag & rolling-average features for robustness
+### Hybrid Deep Learning for Early Detection of NAFLD/NASH Progression (M.Tech Final Year Project, Medical Imaging & Deep Learning, 2025–2026)
+– **Tech Stack:** Python, TensorFlow(Keras), Scikit-learn, Matplotlib
+– Designed and implemented deep learning models (AlexNet, GoogLeNet/Inception v1) to detect
+and monitor NAFLD/NASH using liver biopsy B-MODE images.
+– Achieved 99.17% accuracy using Inception v1 on a specialized clinical dataset (550 images, 55
+patients with 10 frames each)
+– Performed preprocessing, model training, and evaluation using Python (TensorFlow), focusing
+on optimizing accuracy and generalization. 
 
 ### Brain Tumor Detection with MobileNetV2  
 - **Stack:** Python, TensorFlow (Keras), Scikit-learn, Matplotlib  
 - Transfer-learned MobileNetV2; achieved 93 % validation accuracy & high AUC  
-- Implemented custom LR scheduler, early stopping & best-recall checkpointing  
+- Implemented custom LR scheduler, early stopping & best-recall checkpointing
+- 
+### MANASIK: Mental Health Chatbot  
+- **Stack:** Python, PyTorch, NLP libs, Flask, HTML/CSS, JavaScript  
+- Feed-forward NeuralNet for intent classification (softmax threshold > 0.75)  
+- JSON-based intents dataset powering conversational responses 
 
 ---
 
@@ -55,7 +63,7 @@ HTML · CSS · Flask
 
 - **GATE 2024:** Qualified with AIR 7095 (Score 469)  
 - Data Structures & Algorithms Certificate (Simplilearn)  
-- SQL Certificate (Simplilearn)  
+- SQL and Relational Databases Certificate (Simplilearn)  
 - Certificate of Appreciation, Engineer’s Day Coordinator (RGUKT Basar)  
 
 ---
