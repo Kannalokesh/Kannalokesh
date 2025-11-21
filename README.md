@@ -1,76 +1,138 @@
-# 👋 Hi, I’m Lokesh Junjoor
-An aspiring AI researcher and software developer passionate about leveraging machine learning and artificial intelligence to solve real-world problems. Currently pursuing my M.Tech in Artificial Intelligence at the University of Hyderabad, I have a strong foundation in programming, data science, and deep learning.
+<!-- Animated Typing Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00A6FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Lokesh+Junjoor!;AI+Researcher+%7C+Deep+Learning+Engineer;Medical+Imaging+%7C+Multimodal+Learning;Always+Exploring+Intelligent+Systems+%26+ML" />
+</h1>
 
-I enjoy building practical projects — from forecasting electricity demand with advanced regression models to creating mental health chatbots and developing medical imaging solutions using mobile neural networks. With a solid grip on Python, C, and web technologies, I’m always eager to learn, collaborate, and contribute to impactful open-source projects.
-
-Feel free to explore my projects, profiles and connect with me!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-junjoor-a00b0823b/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:junjoorlokesh@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/kanna_lokesh/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-00611C?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/junjoorlokesh/)
-
----
-
-## 🎓 Education
-
-- **M.Tech in Artificial Intelligence** @ University of Hyderabad (2024–Present)  
-- **B.Tech in Computer Science & Engineering** @ RGUKT Basar (2020–2024)  
+<p align="center">
+Aspiring <b>AI Researcher</b> and <b>Deep Learning Engineer</b> passionate about building intelligent systems that blend 
+computer vision, multimodal learning, and generative AI. Currently pursuing my <b>M.Tech in Artificial Intelligence</b> 
+at the <b>University of Hyderabad</b>, where I work on medical imaging models, fusion networks, and applied machine learning 
+projects.  
+I love transforming data into practical, impactful solutions — especially in healthcare, automation, and predictive modeling.
+</p>
 
 ---
 
-## 🛠️ Skills
+## 📫 Connect With Me
 
-- **Programming & Databases**
-- • Python • C • MySQL
-- **Data Science & Machine Learning**
-- • Numpy • Pandas • Scikit-learn • Matplotlib • Seaborn
-- **AI & Deep Learning**
-- • **Frameworks:** TensorFlow • Keras • PyTorch • Hugging Face Transformers
-- • **Specializations:** Computer Vision • Natural Language Processing (NLP) • Time-Series Analysis
-- • **Generative AI:** LLM Fine-Tuning (PEFT, LoRA) • Retrieval-Augmented Generation (RAG) 
+<p align="left">
+  <a href="https://www.linkedin.com/in/lokesh-junjoor-a00b0823b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:junjoorlokesh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/kanna_lokesh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.geeksforgeeks.org/user/junjoorlokesh/"><img src="https://img.shields.io/badge/GeeksForGeeks-00611C?style=flat-square&logo=geeksforgeeks&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🔭 Featured Projects
+# 🧰 Tech Stack Icons
 
-### Electricity Demand Forecasting  
-- **Stack:** Python, Pandas, Scikit-learn, Matplotlib  
-- Built LR, SVR & XGBoost models on historical demand + weather features  
-- Engineered datetime, lag & rolling-average features for robustness
-### Hybrid Deep Learning for Early Detection of NAFLD/NASH Progression (M.Tech Final Year Project, Medical Imaging & Deep Learning, 2025–2026)
-– **Tech Stack:** Python, TensorFlow(Keras), Scikit-learn, Matplotlib
-– Designed and implemented deep learning models (AlexNet, GoogLeNet/Inception v1) to detect
-and monitor NAFLD/NASH using liver biopsy B-MODE images.
-– Achieved 99.17% accuracy using Inception v1 on a specialized clinical dataset (550 images, 55
-patients with 10 frames each)
-– Performed preprocessing, model training, and evaluation using Python (TensorFlow), focusing
-on optimizing accuracy and generalization. 
-
-### Brain Tumor Detection with MobileNetV2  
-- **Stack:** Python, TensorFlow (Keras), Scikit-learn, Matplotlib  
-- Transfer-learned MobileNetV2; achieved 93 % validation accuracy & high AUC  
-- Implemented custom LR scheduler, early stopping & best-recall checkpointing
-- 
-### MANASIK: Mental Health Chatbot  
-- **Stack:** Python, PyTorch, NLP libs, Flask, HTML/CSS, JavaScript  
-- Feed-forward NeuralNet for intent classification (softmax threshold > 0.75)  
-- JSON-based intents dataset powering conversational responses 
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,c,mysql" />
+  <br>
+  <!-- ML & AI -->
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <br>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
 
 ---
 
-## 🏆 Achievements & Certifications
+# 🛠️ Skills & Badges
 
-- **GATE 2024:** Qualified with AIR 7095 (Score 469)  
-- Data Structures & Algorithms Certificate (Simplilearn)  
-- SQL and Relational Databases Certificate (Simplilearn)  
-- Certificate of Appreciation, Engineer’s Day Coordinator (RGUKT Basar)  
+### **Programming & Databases**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### **Data Science & ML**
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
+
+### **AI & Deep Learning**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+
+### **Generative AI**
+![LoRA](https://img.shields.io/badge/LLM+Fine--Tuning-LoRA-blue?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![Agents](https://img.shields.io/badge/AI%20Agents-orange?style=flat)
 
 ---
 
-## 💻 Competitive Programming
+# 🚀 Featured Projects
 
-Solved **300+** problems on LeetCode & GeeksForGeeks, honing algorithms & problem-solving skills.
+## 📌 MultiModal Fusion Network for NAFLD Detection  
+**M.Tech Final Year Project — Medical Imaging (2025–2026)**  
+- **Tech Stack:** Python, PyTorch, Pandas, Scikit-learn, Matplotlib, Tqdm  
+- Developed a **multimodal fusion model** combining:
+  - **EfficientNetV2-S** for BEHSOF ultrasound imaging  
+  - **MLP network** for clinical tabular data  
+- Accuracy (Multitask Objective): **[94.6%, 71.5%, 71.8]**  
+- Dataset: **1669 paired image–record samples**  
+- Features:
+  - **Cross-attention fusion module**
+  - **5-fold cross-validation**
+  - End-to-end PyTorch training pipeline  
 
 ---
 
+## ⚡ Electricity Demand Forecasting
+- **Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib  
+- Built forecasting models: **LR, SVR, XGBoost**  
+- Engineered advanced features:  
+  - datetime (hour, month, weekday)  
+  - lag (1h, 1d, 1w)  
+  - rolling averages  
+- Model accurately predicted short-term & long-term demand trends.
+
+---
+
+## 🧠 Brain Tumor Detection using MobileNetV2
+- **Tech Stack:** Python, TensorFlow, Keras, Scikit-learn, Matplotlib  
+- Transfer-learned **MobileNetV2** with custom dense classifier  
+- Achieved **93% validation accuracy**  
+- Training techniques:
+  - Custom LR scheduler *(1e-5 → 1e-6)*  
+  - EarlyStopping (patience=10)  
+  - Best-recall checkpointing  
+- Dataset: **3,000+ MRI scans** (binary classification)
+
+---
+
+# 🎓 Education
+- **M.Tech in Artificial Intelligence** — University of Hyderabad (2024–Present)  
+- **B.Tech in CSE** — RGUKT Basar (2020–2024)
+
+---
+
+# 🏆 Achievements
+- **GATE 2024 Qualified** — AIR 7095 (Score 469)  
+- Certified in **DSA**, **SQL**, **Relational Databases** (Simplilearn)  
+- Certificate of Appreciation — Engineer’s Day Coordinator  
+
+---
+
+# 💻 Competitive Programming
+Solved **400+ problems** on LeetCode & GeeksForGeeks.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kanna-lokesh&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanna-lokesh&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanna-lokesh&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">⭐ If you like my work, consider giving my repositories a star!</p>
