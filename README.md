@@ -60,7 +60,8 @@ I love transforming data into practical, impactful solutions — especially in h
 ### **Generative AI**
 ![LoRA](https://img.shields.io/badge/LLM+Fine--Tuning-LoRA-blue?style=flat)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
-![Agents](https://img.shields.io/badge/AI%20Agents-orange?style=flat)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-orange?style=flat)
+![RAG](https://img.shields.io/badge/Retrieval--Augmented--Generation-5C2D91?style=flat)
 
 ---
 
@@ -125,12 +126,12 @@ Solved **400+ problems** on LeetCode & GeeksForGeeks.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanna-lokesh&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanna-lokesh&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kannalokesh&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kannalokesh&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanna-lokesh&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kannalokesh&layout=compact&theme=tokyonight" />
 </p>
 
 ---
