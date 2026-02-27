@@ -63,45 +63,6 @@ I love transforming data into practical, impactful solutions — especially in h
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-orange?style=flat)
 ![RAG](https://img.shields.io/badge/Retrieval--Augmented--Generation-5C2D91?style=flat)
 
----
-
-# 🚀 Featured Projects
-
-## 📌 MultiModal Fusion Network for NAFLD Detection  
-**M.Tech Final Year Project — Medical Imaging (2025–2026)**  
-- **Tech Stack:** Python, PyTorch, Pandas, Scikit-learn, Matplotlib, Tqdm  
-- Developed a **multimodal fusion model** combining:
-  - **EfficientNetV2-S** for BEHSOF ultrasound imaging  
-  - **MLP network** for clinical tabular data  
-- Accuracy (Multitask Objective): **[94.6%, 71.5%, 71.8]**  
-- Dataset: **1669 paired image–record samples**  
-- Features:
-  - **Cross-attention fusion module**
-  - **5-fold cross-validation**
-  - End-to-end PyTorch training pipeline  
-
----
-
-## ⚡ Electricity Demand Forecasting
-- **Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib  
-- Built forecasting models: **LR, SVR, XGBoost**  
-- Engineered advanced features:  
-  - datetime (hour, month, weekday)  
-  - lag (1h, 1d, 1w)  
-  - rolling averages  
-- Model accurately predicted short-term & long-term demand trends.
-
----
-
-## 🧠 Brain Tumor Detection using MobileNetV2
-- **Tech Stack:** Python, TensorFlow, Keras, Scikit-learn, Matplotlib  
-- Transfer-learned **MobileNetV2** with custom dense classifier  
-- Achieved **93% validation accuracy**  
-- Training techniques:
-  - Custom LR scheduler *(1e-5 → 1e-6)*  
-  - EarlyStopping (patience=10)  
-  - Best-recall checkpointing  
-- Dataset: **3,000+ MRI scans** (binary classification)
 
 ---
 
