@@ -4,8 +4,8 @@
 </h1>
 
 <p align="center">
-Aspiring <b>AI Researcher</b> and <b>Deep Learning Engineer</b> passionate about building intelligent systems that blend 
-computer vision, multimodal learning, and generative AI. Currently pursuing my <b>M.Tech in Artificial Intelligence</b> 
+Aspiring <b>AI Researcher</b> and <b>ML Engineer <b>Deep Learning Engineer</b> passionate about building intelligent systems that blend 
+natural language, multimodal learning, and generative AI. Currently pursuing my <b>M.Tech in Artificial Intelligence</b> 
 at the <b>University of Hyderabad</b>, where I work on medical imaging models, fusion networks, and applied machine learning 
 projects.  
 I love transforming data into practical, impactful solutions — especially in healthcare, automation, and predictive modeling.
@@ -73,14 +73,14 @@ I love transforming data into practical, impactful solutions — especially in h
 ---
 
 # 🏆 Achievements
-- **GATE 2024 Qualified** — AIR 7095 (Score 469)  
-- Certified in **DSA**, **SQL**, **Relational Databases** (Simplilearn)  
-- Certificate of Appreciation — Engineer’s Day Coordinator  
+- **GATE 2024 Qualified** — AIR 7095 (Score 469)
+- Certified in **Introduction to LangChain** - **LangCahin Academy**
+- Certified in **DSA**, **SQL**, **Relational Databases** - **Simplilearn**
 
 ---
 
 # 💻 Competitive Programming
-Solved **400+ problems** on LeetCode & GeeksForGeeks.
+Solved **500+ problems** on LeetCode & GeeksForGeeks.
 
 ---
 
